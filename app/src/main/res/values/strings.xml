@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Camera Request</string>
+    <string name="capture_button">Click to capture photo</string>
+    <string name="desc">Capture image holder</string>
+</resources>
